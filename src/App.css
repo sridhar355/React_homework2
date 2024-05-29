@@ -1,0 +1,15 @@
+*{
+ font-family: 'Roboto', Times, serif;
+}
+/* h1{
+  text-align: center;
+} */
+
+.main{
+  align-items: center;
+  width: 550px;
+  margin: auto;
+}
+p{
+  padding-left: 20px;
+}
